@@ -4,7 +4,7 @@
 
 
 ######Dependencies
-This project currently relies upon [MAObjCRuntime](https://github.com/mikeash/MAObjCRuntime).  I'll be adding a demo project and podspec soon to make this more apparent, though I do plan on eventually the dependency entirely.  It's only used in one place and I think it could by handled simply without it, but it's what I know and easy to use so it's in place for now.
+This project currently relies upon [MAObjCRuntime](https://github.com/mikeash/MAObjCRuntime).  It's only used in one place and I think it could by handled simply without it, but it's what I know and easy to use so it's in place for now.
 
 ### Why?
 Appdelegates are one of the most abused pieces of UIKit and tend to get crammed with tons of code.  With some Objective-C runtime techniques we can elegantly abstract out code into Service objects that function just like they were part of the delegate themselves.  This allows for smaller, more reusable, more testable classes and a much more readable appdelegate.
