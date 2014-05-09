@@ -1,9 +1,8 @@
 //
-//  CSAppDelegateService.m
-//  EasyReader
+//  SRVApplicationDelegateService.m
 //
 //  Created by Joseph Lorich on 3/20/14.
-//  Copyright (c) 2014 Cloudspace. All rights reserved.
+//  Copyright (c) 2014 Joseph Lorich.
 //
 
 #import "SRVApplicationDelegateService.h"

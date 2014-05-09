@@ -1,9 +1,8 @@
 //
-//  CSServiceOrientedAppDelegate.h
-//  EasyReader
+//  SRVApplicationDelegate.h
 //
 //  Created by Joseph Lorich on 3/20/14.
-//  Copyright (c) 2014 Cloudspace. All rights reserved.
+//  Copyright (c) 2014 Joseph Lorich.
 //
 
 #import <UIKit/UIKit.h>
